@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d5f9a1-5f36-44de-9581-d669ce4440b7" name="Changes" comment="add first classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Renderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/WorldMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Grass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Rock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Simulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1d5f9a1-5f36-44de-9581-d669ce4440b7" name="Changes" comment="add more classes and comments from description" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756057175623</updated>
-      <workItem from="1756057178481" duration="7771000" />
+      <workItem from="1756057178481" duration="8641000" />
     </task>
     <task id="LOCAL-00001" summary="intialize">
       <option name="closed" value="true" />
@@ -142,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756059272017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add more classes and comments from description">
+      <option name="closed" value="true" />
+      <created>1756399935256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756399935256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intialize" />
     <MESSAGE value="add first classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first classes" />
+    <MESSAGE value="add more classes and comments from description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more classes and comments from description" />
   </component>
 </project>
