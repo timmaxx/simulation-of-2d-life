@@ -4,15 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d5f9a1-5f36-44de-9581-d669ce4440b7" name="Changes" comment="intialize">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Main.java" afterDir="false" />
+    <list default="true" id="a1d5f9a1-5f36-44de-9581-d669ce4440b7" name="Changes" comment="add first classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/WorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/entity/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Simulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/timmax/game/simulation_of_2d_life/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +67,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +87,7 @@
       <module name="simulation-of-2d-life" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.timmax.game.simulation_of_2d_life.*" />
+          <option name="PATTERN" value="com.timmax.game.simulation_of_2d_life.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756057175623</updated>
-      <workItem from="1756057178481" duration="1880000" />
+      <workItem from="1756057178481" duration="7771000" />
     </task>
     <task id="LOCAL-00001" summary="intialize">
       <option name="closed" value="true" />
@@ -107,7 +126,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756058052844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intialize">
+      <option name="closed" value="true" />
+      <created>1756059202319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756059202319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add first classes">
+      <option name="closed" value="true" />
+      <created>1756059272017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756059272017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="intialize" />
+    <MESSAGE value="add first classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first classes" />
   </component>
 </project>
